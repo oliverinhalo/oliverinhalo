@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currenty doing Computer Sience, Maths and Music Tech A level.<br>I enjoy programing, CAD and electronics.
+I'm currently studying Computer Science, Maths and Music Tech A level.<br>I enjoy programming, CAD and electronics.
 
 
 # 💻 Tech Stack:
